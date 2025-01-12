@@ -2,6 +2,7 @@
 title: Apple cider
 layout: default
 nav_order: 1
+parent: Recipes
 ---
 # Apple cider
 ![Cider](cider.jpg "cider")

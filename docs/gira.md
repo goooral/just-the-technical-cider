@@ -2,6 +2,7 @@
 title: Gira
 layout: default
 nav_order: 3
+parent: Recipes
 ---
 # Kvass/Gira
 
