@@ -8,7 +8,7 @@ parent: Recipes
 
 Lithuanian beverage made of bread.
 
-![Kvass/Gira](https://github.com/goooral/just-the-technical-cider/blob/main/images/gira.jpg "gira")
+![Kvass/Gira](https://github.com/goooral/just-the-technical-cider/blob/main/images/gira.jpg?raw=true "gira")
 
 ## Ingredients:
 
