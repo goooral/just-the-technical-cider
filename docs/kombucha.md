@@ -6,6 +6,8 @@ parent: Recipes
 ---
 # Kombucha
 
+Hi! This is my trial change to your Kombucha file!
+
 A refreshing tea-based drink.
 
 ![Kombucha](https://raw.githubusercontent.com/goooral/just-the-technical-cider/refs/heads/main/images/kombucha.jpg "kombucha")
