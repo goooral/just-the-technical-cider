@@ -1,3 +1,10 @@
+---
+title: Cider recipe
+layout: default
+nav_order: 2
+---
+
+
 # Apple cider
 ![Cider](cider.jpg "cider")
 
