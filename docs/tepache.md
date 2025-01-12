@@ -8,7 +8,7 @@ parent: Recipes
 
 A Mexican fermented pineapple drink.
 
-![Tepache](https://github.com/goooral/just-the-technical-cider/blob/main/images/tepache.jpg?raw=true "tepache")
+![Tepache](https://raw.githubusercontent.com/goooral/just-the-technical-cider/refs/heads/main/images/tepache.jpg "tepache")
 
 ## Ingredients:
 
