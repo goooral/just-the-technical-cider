@@ -1,5 +1,5 @@
 ---
-title: Cider recipe
+title: Apple cider
 layout: default
 nav_order: 1
 ---
