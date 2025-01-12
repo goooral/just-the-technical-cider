@@ -1,7 +1,7 @@
 ---
 title: Cider recipe
 layout: default
-nav_order: 2
+nav_order: 1
 ---
 # Apple cider
 ![Cider](cider.jpg "cider")
