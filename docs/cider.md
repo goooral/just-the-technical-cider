@@ -3,14 +3,12 @@ title: Cider recipe
 layout: default
 nav_order: 2
 ---
-
-
 # Apple cider
 ![Cider](cider.jpg "cider")
 
 ## Ingredients:
-* 10 liters NFC apple juice
-* Cider yeast
+* 10 l NFC apple juice (either store bought or squeezed out by yourself)
+* Cider yeast (can be substituted by universal yeast or even wine yeast)
 * 80 grams sugar
 * Optional: 100 grams erythritol
 
@@ -39,7 +37,7 @@ Remember that the contents might spill out during fermentation. This may happen 
 2. Mix until the sugar dissolves completely.
 
 ***Optional***: 
-You can sweeten your cider with erythritol. The cider is going to be sour and savory by default, as the yeast consumes the entire sugar content. In order to sweeten the drink, add a sweetener. 
+You can sweeten your cider with erythritol. The cider is going to be sour and savory by default, as the yeast consumes the entire sugar content. In order to sweeten the drink, add erythritol. 
 1. Add 10 g per 100 ml to a small portion of the cider.
 2. Taste the mixture. 
 3. Adjust the proportion as needed.
