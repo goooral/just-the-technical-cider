@@ -8,7 +8,7 @@ parent: Recipes
 
 A Mexican fermented pineapple drink.
 
-![Tepache](../Resources/Images/tepache.jpg)
+![Tepache](/images/tepache.jpg)
 
 ## Ingredients:
 

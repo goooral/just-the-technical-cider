@@ -8,7 +8,7 @@ parent: Recipes
 
 A refreshing tea-based drink.
 
-![Kombucha](../Resources/Images/kombucha.jpg)
+![Kombucha](/images/kombucha.jpg)
 
 ## Basic ingredients (for one litre of kombucha):
 

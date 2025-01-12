@@ -8,7 +8,7 @@ parent: Recipes
 
 A ginger bug is a simple starter used to make homemade ginger beer or other fermented drinks.
 
-![Ginger](../Resources/Images/ginger.jpg)
+![Ginger](/images/ginger.jpg)
 
 ## Ingredients:
 

@@ -8,7 +8,7 @@ parent: Recipes
 
 Lithuanian beverage made of bread.
 
-![Kvass/Gira](../Resources/Images/gira.jpg)
+![Kvass/Gira](/images/gira.jpg)
 
 ## Ingredients:
 

@@ -5,7 +5,7 @@ nav_order: 1
 parent: Recipes
 ---
 # Apple cider
-![Cider](cider.jpg "cider")
+![Cider](/images/cider.jpg "cider")
 
 ## Ingredients:
 * 10 l NFC apple juice (either store bought or squeezed out by yourself)
