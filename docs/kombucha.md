@@ -8,7 +8,7 @@ parent: Recipes
 
 A refreshing tea-based drink.
 
-![Kombucha](/images/kombucha.jpg)
+![Kombucha](https://github.com/goooral/just-the-technical-cider/blob/main/images/kombucha.jpg "kombucha")
 
 ## Basic ingredients (for one litre of kombucha):
 
